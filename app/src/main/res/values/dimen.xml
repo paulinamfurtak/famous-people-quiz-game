@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">25sp</dimen>
+    4 <dimen name="flag_width">227dp</dimen>
+    5 <dimen name="flag_height">150dp</dimen>
+    6 <dimen name="answer_size">40sp</dimen>
+    7 <dimen name="text_size">20sp</dimen>
+</resources>
